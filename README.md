@@ -112,4 +112,4 @@ These insights help businesses understand customer purchasing patterns, identify
 
 # Project Outcome
 
-This project demonstrates a complete data analytics workflow including data cleaning, preprocessing, outlier detection, statistical analysis, visualization, and dashboard development. It showcases the ability to transform raw sales data into meaningful business insights and build interactive dashboards for data-driven decision making. 🚀📊
+This project demonstrates a complete data analytics workflow including data cleaning, preprocessing, outlier detection, statistical analysis, visualization, and dashboard development. It showcases the ability to transform raw sales data into meaningful business insights and build interactive dashboards for data-driven decision making. 
